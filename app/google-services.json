@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925815479211",
+    "project_id": "upload-ds3m-moreno",
+    "storage_bucket": "upload-ds3m-moreno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925815479211:android:876c9c574a516d9103d0ee",
+        "android_client_info": {
+          "package_name": "br.senai.sp.jandira.upload_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdT6so714DS01WR8986JiBrvpO9RwGBU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
